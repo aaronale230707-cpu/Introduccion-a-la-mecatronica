@@ -1,7 +1,7 @@
 # Encabezados
 
 ``` codigo
-# Título H1
+# Título 
 ## Título H2
 ### Título H3
 ```
