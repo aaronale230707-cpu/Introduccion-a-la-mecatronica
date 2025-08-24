@@ -2,7 +2,7 @@
 
 > “Hubo una vez que no chambié por 8 meses; gracias a Dios, al noveno mes nací.” ✨
 
-![Foto de perfil](RUTA_O_URL_DE_TU_FOTO) <!-- Sube tu imagen a /assets/foto.jpg y usa ![](/assets/foto.jpg) -->
+![Foto de perfil](/recuros/imgs/yo.jpg) <!-- Sube tu imagen a /assets/foto.jpg y usa ![](/assets/foto.jpg) -->
 
 ---
 
