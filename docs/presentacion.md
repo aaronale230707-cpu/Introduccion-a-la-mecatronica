@@ -38,9 +38,9 @@
 
 | Imagen | Descripción |
 | --- | --- |
-| ![Yo y la música](RUTA_IMAGEN_1) | Practicando o componiendo |
-| ![Maker time](RUTA_IMAGEN_2) | Armando o prototipando algo |
-| ![Mis perritas](![Foto de perfil](./docs/recursos/imgs/mascotas.jpg)) | Tiempo con mis tres perritas |
+| ![Yo y la música](![Foto de perfil](./recursos/imgs/papas.jpg)) | Practicando o componiendo |
+| ![Maker time](![Foto de perfil](./recursos/imgs/mami.jpg)) | Armando o prototipando algo |
+| ![Mis perritas](![Foto de perfil](./recursos/imgs/mascotas.jpg)) | Tiempo con mis tres perritas |
 
 <!-- Tip: crea /assets y usa rutas relativas: ![](/assets/foto1.jpg) -->
 
