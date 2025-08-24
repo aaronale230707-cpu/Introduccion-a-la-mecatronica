@@ -3,6 +3,7 @@
 > “Hubo una vez que no chambié por 8 meses; gracias a Dios, al noveno mes nací.” ✨
 
 <!-- Foto principal -->
+![Foto de perfil](./recursos/imgs/yo.jpg)
 <img src="./recursos/imgs/yo.jpg" alt="Foto de perfil" width="360" />
 
 ---
@@ -37,28 +38,14 @@
 ## 📸 Un poco de mi mundo
 
 <!-- Tabla en HTML puro para compatibilidad con GitHub Pages/MkDocs -->
-<table>
-  <thead>
-    <tr>
-      <th>Imagen</th>
-      <th>Descripción</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><img src="./recursos/imgs/papas.jpg" alt="Mis papás" width="200"></td>
-      <td>Mis papás</td>
-    </tr>
-    <tr>
-      <td><img src="./recursos/imgs/mami.jpg" alt="Mi mamá y yo" width="200"></td>
-      <td>Mi mamá y yo</td>
-    </tr>
-    <tr>
-      <td><img src="./recursos/imgs/mascotas.jpg" alt="Yoko y Duquesita (falta Kiki)" width="200"></td>
-      <td>Yoko y Duquesita (falta Kiki)</td>
-    </tr>
-  </tbody>
-</table>
+## 📸 Un poco de mi mundo
+
+| Imagen | Descripción |
+| --- | --- |
+| <img src="./recursos/imgs/papas.jpg" alt="Mis papás" width="200" /> | Mis papás |
+| <img src="./recursos/imgs/mami.jpg" alt="Mi mamá y yo" width="200" /> | Mi mamá y yo |
+| <img src="./recursos/imgs/mascotas.jpg" alt="Yoko y Duquesita (falta Kiki)" width="200" /> | Yoko y Duquesita (falta Kiki) |
+
 
 ---
 
