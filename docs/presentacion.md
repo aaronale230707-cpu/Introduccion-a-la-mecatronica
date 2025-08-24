@@ -39,9 +39,9 @@
 
 | Imagen | Descripción |
 | --- | --- |
-| ![Yo y la música](![Foto de perfil](./recursos/imgs/papas.jpg)) | Practicando o componiendo |
-| ![Maker time](![Foto de perfil](./recursos/imgs/mami.jpg)) | Armando o prototipando algo |
-| ![Mis perritas](![Foto de perfil](./recursos/imgs/mascotas.jpg)) | Tiempo con mis tres perritas |
+| ![Mis papas](![Foto de perfil](./recursos/imgs/papas.jpg))<img src="../recursos/imgs/papas.jpeg" alt="Mis papas" width="420"> | Mis papas |
+| ![Conviviendo](![Foto de perfil](./recursos/imgs/mami.jpg))<img src="../recursos/imgs/mama.jpeg" alt="Mi mama y yo" width="420"> | pasando el tiempo |
+| ![Mis perritas](![Foto de perfil](./recursos/imgs/mascotas.jpg))<img src="../recursos/imgs/mascotas.jpeg" alt="Yoko y Duquesita falta kiki" width="420"> | Tiempo con mis tres perritas |
 
 <!-- Tip: crea /assets y usa rutas relativas: ![](/assets/foto1.jpg) -->
 
@@ -106,6 +106,28 @@
 > Para licencias digitales: una vez confirmado el pago, la activación se realiza en minutos. Recomendable compartir el correo correcto y, si aplica, el usuario de la plataforma para evitar retrasos. Para MagSafe y accesorios físicos, manejo envíos a acordar; pregunta por disponibilidad y tiempos. Los precios pueden variar por tipo de cambio y promociones vigentes. Para mayoreo, solicita cotización con la cantidad exacta y destino.
 
 ---
+
+## 🧰 Habilidades
+
+### Lenguajes de programación
+- Python • C • C++ • Rust
+
+### Áreas de fortaleza
+- Matemáticas • Física • Tecnología • Programación
+
+<!-- Badges tipo “cuadritos” -->
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" alt="Rust" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Matem%C3%A1ticas-Logic%20%26%20C%C3%A1lculo-blue" alt="Matemáticas" />
+  <img src="https://img.shields.io/badge/F%C3%ADsica-Mec%C3%A1nica%20%7C%20Electr%C3%B3nica-purple" alt="Física" />
+  <img src="https://img.shields.io/badge/Tecnolog%C3%ADa-Maker%20%7C%20Mecatr%C3%B3nica-green" alt="Tecnología" />
+  <img src="https://img.shields.io/badge/Programaci%C3%B3n-Aprendizaje%20continuo-orange" alt="Programación" />
+</p>
 
 ## 🧭 Plantilla express para tu foto
 Arrastra tu foto al editor de GitHub o súbela a /assets y usa:
