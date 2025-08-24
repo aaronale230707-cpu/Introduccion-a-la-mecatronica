@@ -3,7 +3,7 @@
 > “Hubo una vez que no chambié por 8 meses; gracias a Dios, al noveno mes nací.” ✨
 
 ![Foto de perfil](./recursos/imgs/yo.jpg)
-
+<img src="../recursos/imgs/yo.jpeg" alt="Diagrama del sistema" width="420">
 
 ---
 
@@ -39,16 +39,19 @@
 > Momentos que me definen
 
 ![Mis papás](./recursos/imgs/papas.jpg)
+<img src="./recursos/imgs/papas.jpeg" alt="Diagrama del sistema" width="420">
 Mis papás
 
 ---
 
 ![Mi mamá y yo](./recursos/imgs/mami.jpg)
+<img src="./recursos/imgs/mami.jpeg" alt="Diagrama del sistema" width="420">
 Mi mamá y yo
 
 ---
 
 ![Yoko y Duquesita (falta Kiki)](./recursos/imgs/mascotas.jpg)
+<img src="./recursos/imgs/mascotas.jpeg" alt="Diagrama del sistema" width="420">
 Yoko y Duquesita (falta Kiki)
 
 
