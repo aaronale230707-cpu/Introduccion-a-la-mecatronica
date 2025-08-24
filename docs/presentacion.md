@@ -1,80 +1,111 @@
-# 👋 ¡Hola! Soy (Tu Nombre)
+# 👋 ¡Hola! Soy Carlos Alberto Vázquez Peraza
 
-> “(Una frase corta que te represente)” ✨
+> “Hubo una vez que no chambié por 8 meses; gracias a Dios, al noveno mes nací.” ✨
 
-![Foto de perfil](RUTA_O_URL_DE_TU_FOTO) <!-- Reemplaza con tu imagen. Sube a /assets/foto.jpg y usa ![Alt](/assets/foto.jpg) -->
+![Foto de perfil](RUTA_O_URL_DE_TU_FOTO) <!-- Sube tu imagen a /assets/foto.jpg y usa ![](/assets/foto.jpg) -->
 
 ---
 
 ## 🪪 Sobre mí
-- 👤 Nombre: (Tu Nombre Completo o como te gusta que te llamen)
-- 🎂 Edad: (Tu edad)
-- 🌎 De: (Ciudad, País) — viviendo en (Ciudad, País)  
-- 🗣️ Idiomas: (Español, Inglés, ...)
-- 🧭 Actualmente: (qué haces: estudiando, trabajando, viajando, explorando...)
+- 👤 Nombre: Carlos Alberto Vázquez Peraza
+- 🎂 Edad: 17
+- 🌎 De: Xalapa, Veracruz, México — nacido en Córdoba, Veracruz
+- 🗣️ Idiomas: Español • Inglés • Francés (intermedio)
+- 🎓 Estudiante de: Mecatrónica y Música
+- 🔧 Tecnologías que manejo: Python • C • C++ • Rust
 
 ---
 
 ## 💫 Lo que me gusta
-- 🎵 Música: (géneros o artistas)
-- 🎬 Películas/Series: (tus favoritas)
-- 📚 Lectura: (autores o temas)
-- 🏃‍♀️ Actividad: (deporte, gym, senderismo, yoga…)
-- 🍳 Comida: (platillos favoritos)
-- 🎮 Hobbies: (juegos, manualidades, fotografía, etc.)
-- ✈️ Viajes: (lugares soñados o visitados)
+- 🎵 Música: Electro swing
+- 🎬 Películas: Interestelar • Nobody
+- 📚 Lectura: Terror • Autoayuda/Desarrollo personal
+- 🍽️ Comidas favoritas: Quecas • Huevo con frijol
+- 🎮 Hobbies: Videojuegos • Estudiar programación • Aprender nuevas habilidades
 
 ---
 
 ## 🌱 Lo que hago y me mueve
-- 🎯 Metas personales: (meta 1), (meta 2)
-- 💡 Intereses: (temas que te apasionan)
-- 🤝 Me encanta conectar con: (tipos de personas o comunidades)
-- 🧘 Bienestar: (rutinas o hábitos que te ayudan)
+- 🎯 Metas personales: Aprender y construir proyectos propios, viajar a Europa (especialmente Alemania), crecer en mecatrónica y música
+- 💡 Intereses: Tecnología, diseño de sistemas, creatividad musical, aprendizaje continuo
+- 🤝 Me encanta conectar con: Personas curiosas, makers y amantes de la ciencia/arte
+- 🧘 Bienestar: Constancia, familia y proyectos que me reten
 
 ---
 
 ## 📸 Un poco de mi mundo
-> Agrega 2–4 imágenes o collages que te representen (viajes, arte, mascotas, etc.)
+> Agrega imágenes que te representen (estudio, música, proyectos, mascotas)
 
 | Imagen | Descripción |
 | --- | --- |
-| ![Yo en la naturaleza](RUTA_IMAGEN_1) | (Por qué es especial para ti) |
-| ![Un momento feliz](RUTA_IMAGEN_2) | (Contexto o anécdota) |
-| ![Algo que hago](RUTA_IMAGEN_3) | (Actividad/hobbie) |
+| ![Yo y la música](RUTA_IMAGEN_1) | Practicando o componiendo |
+| ![Maker time](RUTA_IMAGEN_2) | Armando o prototipando algo |
+| ![Mis perritas](RUTA_IMAGEN_3) | Tiempo con mis tres perritas |
 
-<!-- Tip: crea una carpeta /assets y usa rutas relativas: ![](/assets/foto1.jpg) -->
+<!-- Tip: crea /assets y usa rutas relativas: ![](/assets/foto1.jpg) -->
 
 ---
 
 ## 🗺️ De dónde vengo
-- 🏠 Nací en: (Ciudad, País)
-- 🧳 Historia breve: (una o dos líneas sobre tu camino)
-- 🤲 Valores: (3 palabras que te definan)
+- 🏠 Nací en: Córdoba, Veracruz
+- 🧳 Historia breve: He tenido una vida increíble con altos y bajos; cada experiencia valió la pena para ser quien soy hoy.
+- 👨‍👩‍👧‍👧 Familia: Dos hermanas y tres perritas
+- 🤲 Valores: Curiosidad • Perseverancia • Gratitud
 
 ---
 
 ## 🧩 Cosas random sobre mí
-- 🌧️ (Dato curioso 1)
-- 🐾 (Dato curioso 2)
-- 📷 (Dato curioso 3)
-- ☕ (Dato curioso 4)
+- 🎲 Me encanta jugar juegos de mesa
+- 🕵️‍♂️ Disfruto ver videos de misterio
+- 🔩 Me gusta armar y construir cosas
+- 🎥 Ver pelis con mi mamá es de mis planes favoritos
 
 ---
 
-## 📨 ¿Hablamos?
-- 📧 Email: (tu@correo.com)
-- 📸 Instagram: (@tu_usuario)
-- 🐦 X/Twitter: (@tu_usuario)
-- 🔗 Otros: (Linktree/portfolio/página personal)
+## ✈️ Viajes y sueños
+- 🌍 Aún no he viajado, pero me encantaría ir a Alemania
 
 ---
 
-## 📌 Nota rápida
-> Si cambias tu foto, recuerda actualizar la caché en GitHub editando el nombre del archivo o agregando un query param, por ejemplo: /assets/foto.jpg?v=2
+## 🧠 Ahora mismo
+- 📖 Estudiando: Mecatrónica y teoría musical
+- 🧪 Practicando: Proyectos en Python, C/C++ y Rust
+- 🎧 Escuchando: Electro swing y playlists para concentrarme
+- 📈 Aprendiendo: Nuevas habilidades técnicas y creativas
+
+---
+
+## 🛒 Ventas y mayoreo
+> Productos y licencias que ofrezco. Escríbeme para precios actualizados, promociones por volumen y métodos de pago.
+
+| Producto/Servicio | Duración/Presentación | Modalidad | Notas |
+| --- | --- | --- | --- |
+| Licencia ChatGPT | 2 meses | Digital | Activación remota |
+| Licencia ChatGPT | 3 meses | Digital | Soporte básico |
+| Licencia ChatGPT | 1 año | Digital | Renovación opcional |
+| Licencia Perplexity | 2 meses | Digital | Acceso premium |
+| Licencia Perplexity | 3 meses | Digital | Consulta guiada |
+| Licencia Perplexity | 1 año | Digital | Mejor precio por año |
+| Spotify Premium | 1 año | Digital | Cuenta nueva o existente |
+| AIProd | 1 año (o plan acordado) | Digital | Confirmar plan disponible |
+| MagSafe (accesorios) | Mayoreo (packs) | Físico | Descuentos por volumen |
+
+> Puedo generar paquetes combinados (por ejemplo, ChatGPT + Spotify + Perplexity) a precio especial por mayoreo. Entrega inmediata en productos digitales.
+
+---
+
+## 📬 Contacto y redes
+- 📧 Email: mrcavp@gmail.com
+- 📱 WhatsApp: 228 496 3952
+- 📸 Instagram: @mr_logros
+
+---
+
+## 📌 Nota para clientes
+> Para licencias digitales: una vez confirmado el pago, la activación se realiza en minutos. Recomendable compartir el correo correcto y, si aplica, el usuario de la plataforma para evitar retrasos. Para MagSafe y accesorios físicos, manejo envíos a acordar; pregunta por disponibilidad y tiempos. Los precios pueden variar por tipo de cambio y promociones vigentes. Para mayoreo, solicita cotización con la cantidad exacta y destino.
 
 ---
 
 ## 🧭 Plantilla express para tu foto
-Arrastra tu foto al editor de GitHub y copia la URL, o súbela a /assets:
+Arrastra tu foto al editor de GitHub o súbela a /assets y usa:
 
