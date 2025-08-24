@@ -2,8 +2,7 @@
 
 > “Hubo una vez que no chambié por 8 meses; gracias a Dios, al noveno mes nací.” ✨
 
-![Foto de perfil](./recursos/imgs/yo.jpg) <!-- Sube tu imagen a /assets/foto.jpg y usa ![](/assets/foto.jpg) -->
-<img src="../recursos/imgs/yo.jpeg" alt="Foto de perfil" width="420">
+<img src="./recursos/imgs/yo.jpg" alt="Foto de perfil" width="360" style="border-radius:14px;" />
 
 ---
 
@@ -35,15 +34,15 @@
 ---
 
 ## 📸 Un poco de mi mundo
-> Agrega imágenes que te representen (estudio, música, proyectos, mascotas)
+
+> Momentos que me definen
 
 | Imagen | Descripción |
 | --- | --- |
-| ![Mis papas](![Foto de perfil](./recursos/imgs/papas.jpg))<img src="../recursos/imgs/papas.jpeg" alt="Mis papas" width="420"> | Mis papas |
-| ![Conviviendo](![Foto de perfil](./recursos/imgs/mami.jpg))<img src="../recursos/imgs/mama.jpeg" alt="Mi mama y yo" width="420"> | pasando el tiempo |
-| ![Mis perritas](![Foto de perfil](./recursos/imgs/mascotas.jpg))<img src="../recursos/imgs/mascotas.jpeg" alt="Yoko y Duquesita falta kiki" width="420"> | Tiempo con mis tres perritas |
+| <img src="./recursos/imgs/papas.jpg" alt="Mis papás" width="220" style="border-radius:10px;" /> | Mis papás |
+| <img src="./recursos/imgs/mami.jpg" alt="Mi mamá y yo" width="220" style="border-radius:10px;" /> | Mi mamá y yo |
+| <img src="./recursos/imgs/mascotas.jpg" alt="Yoko y Duquesita (falta Kiki)" width="220" style="border-radius:10px;" /> | Yoko y Duquesita (falta Kiki) |
 
-<!-- Tip: crea /assets y usa rutas relativas: ![](/assets/foto1.jpg) -->
 
 ---
 
