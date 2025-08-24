@@ -2,7 +2,7 @@
 
 > “Hubo una vez que no chambié por 8 meses; gracias a Dios, al noveno mes nací.” ✨
 
-![Foto de perfil](./recuros/imgs/yo.jpg) <!-- Sube tu imagen a /assets/foto.jpg y usa ![](/assets/foto.jpg) -->
+![Foto de perfil](./docs/recursos/imgs/yo.jpg) <!-- Sube tu imagen a /assets/foto.jpg y usa ![](/assets/foto.jpg) -->
 
 ---
 
@@ -40,7 +40,7 @@
 | --- | --- |
 | ![Yo y la música](RUTA_IMAGEN_1) | Practicando o componiendo |
 | ![Maker time](RUTA_IMAGEN_2) | Armando o prototipando algo |
-| ![Mis perritas](RUTA_IMAGEN_3) | Tiempo con mis tres perritas |
+| ![Mis perritas](![Foto de perfil](./docs/recursos/imgs/mascotas.jpg)) | Tiempo con mis tres perritas |
 
 <!-- Tip: crea /assets y usa rutas relativas: ![](/assets/foto1.jpg) -->
 
