@@ -125,20 +125,4 @@ Yoko y Duquesita (falta Kiki)
 ### Áreas de fortaleza
 - Matemáticas • Física • Tecnología • Programación
 
-<!-- Badges tipo “cuadritos” -->
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" alt="Rust" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Matem%C3%A1ticas-Logic%20%26%20C%C3%A1lculo-blue" alt="Matemáticas" />
-  <img src="https://img.shields.io/badge/F%C3%ADsica-Mec%C3%A1nica%20%7C%20Electr%C3%B3nica-purple" alt="Física" />
-  <img src="https://img.shields.io/badge/Tecnolog%C3%ADa-Maker%20%7C%20Mecatr%C3%B3nica-green" alt="Tecnología" />
-  <img src="https://img.shields.io/badge/Programaci%C3%B3n-Aprendizaje%20continuo-orange" alt="Programación" />
-</p>
-
-## 🧭 Plantilla express para tu foto
-Arrastra tu foto al editor de GitHub o súbela a /assets y usa:
 
