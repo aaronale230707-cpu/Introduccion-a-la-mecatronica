@@ -41,6 +41,7 @@ El 555 funciona como generador de onda cuadrada en modo astable: un capacitor se
 
 ## Segmento para evidencias (MkDocs/GitHub)
 ![Montaje del protoboard](recursos/imgs/Montaje_protoboard.jpg)
+<img src="../recursos/imgs/Montaje_protoboard.jpg" alt="Esquema del circuito" width="420">
 
 ![Esquema del circuito](recursos/imgs/esquema_circuito.png)
 <img src="../recursos/imgs/esquema_circuito.png" alt="Esquema del circuito" width="420">
