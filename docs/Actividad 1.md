@@ -41,13 +41,13 @@ El 555 funciona como generador de onda cuadrada en modo astable: un capacitor se
 
 ## Segmento para evidencias (MkDocs/GitHub)
 Coloca tus archivos en `docs/assets/` (o la carpeta configurada en `mkdocs.yml`) y referencia así:
+<!-- Montaje del protoboard -->
+![Montaje del protoboard](recursos/imgs/montaje_protoboard.jpeg)
+<img src="../recursos/imgs/montaje_protoboard.jpeg" alt="Montaje del protoboard" width="420">
 
-### Fotos de la práctica
-![Montaje en protoboard](assets/led555_montaje.jpg)
-![Esquema del circuito](assets/led555_esquema.png)
-
-### Video demostración
-[Ver video de funcionamiento](assets/led555_demo.mp4)
+<!-- Esquema del circuito -->
+![Esquema del circuito](recursos/imgs/esquema_circuito.png)
+<img src="../recursos/imgs/esquema_circuito.png" alt="Esquema del circuito" width="420">
 
 > Si prefieres alojar el video externamente:  
 > [Video en plataforma externa](https://tu-enlace-de-video.com)
