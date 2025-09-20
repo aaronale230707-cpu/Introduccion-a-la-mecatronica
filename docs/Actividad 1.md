@@ -42,12 +42,8 @@ El 555 funciona como generador de onda cuadrada en modo astable: un capacitor se
 ## Segmento para evidencias (MkDocs/GitHub)
 <img src="../recursos/imgs/Montaje_protoboard.jpg" alt="Esquema del circuito" width="420">
 
-![Esquema del circuito](recursos/imgs/esquema.png)
 <img src="../recursos/imgs/esquema.png" alt="Esquema del circuito" width="420">
 
 > Si prefieres alojar el video externamente:  
 > [Video en plataforma externa](https://tu-enlace-de-video.com)
-
-## (Opcional) Diagrama con Mermaid
-> Activa el plugin de Mermaid en MkDocs para renderizarlo. Si no lo usas, elimina esta sección.
 
