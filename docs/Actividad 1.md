@@ -42,7 +42,7 @@ El 555 funciona como generador de onda cuadrada en modo astable: un capacitor se
 ## Segmento para evidencias (MkDocs/GitHub)
 Coloca tus archivos en `docs/assets/` (o la carpeta configurada en `mkdocs.yml`) y referencia así:
 <!-- Montaje del protoboard -->
-![Montaje del protoboard](recursos/imgs/montaje_protoboard.jpeg)
+![Montaje del protoboard](recursos/imgs/montaje_protoboard.jpg)
 <img src="../recursos/imgs/montaje_protoboard.jpeg" alt="Montaje del protoboard" width="420">
 
 <!-- Esquema del circuito -->
