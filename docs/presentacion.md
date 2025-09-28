@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Carlos Alberto Vázquez Peraza
 > “Hubo una vez que no chambié por 8 meses; gracias a Dios, al noveno mes nací.” ✨
-![Foto de perfil](./recursos/imgs/yo.jpg)
-<img src="../recursos/imgs/yo.jpeg" alt="Diagrama del sistema" width="420">
+![Foto de perfil](../recursos/imgs/yo.jpg)
+<img src="../recursos/imgs/yo.jpeg" alt="Foto mia" width="420">
 
 ---
 
