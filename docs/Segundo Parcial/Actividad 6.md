@@ -63,9 +63,9 @@ void loop() {
 - Si no gira: revisar GND común, estado de ENA, inversión de IN1/IN2 y límite de corriente de la fuente. 
 
 ## Evidencias
-<img src="../recursos/imgs/Segundo/Actividad 6.jpg" alt="Codigo" width="420"> 
+<img src="../recursos/imgs/Segundo/Actividad_6.jpg" alt="Codigo" width="420"> 
 
-<img src="../recursos/imgs/Segundo/Circuito 6.jpg" alt="Montaje ESP32 + L298N + motor TT" width="420"> 
+<img src="../recursos/imgs/Segundo/Circuito_6.jpg" alt="Montaje ESP32 + L298N + motor TT" width="420"> 
 
 > Video opcional:  
 > [Video en plataforma externa](https://tu-enlace-de-video.com) 
