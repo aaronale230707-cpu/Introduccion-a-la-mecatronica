@@ -63,13 +63,9 @@ void loop() {
 - Si no gira: revisar GND común, estado de ENA, inversión de IN1/IN2 y límite de corriente de la fuente. 
 
 ## Evidencias
-<img src="../recursos/imgs/fuente_gwinstek.jpg" alt="Canal activo 11.9 V, 0.20 A" width="420"> 
+<img src="../recursos/imgs/Segundo/Actividad 6.jpg" alt="Codigo" width="420"> 
 
-<img src="../recursos/imgs/montaje_breadboard.jpg" alt="Montaje ESP32 + L298N + motor TT" width="420"> 
-
-<img src="../recursos/imgs/diagrama_l298n.png" alt="Esquema L298N–ESP32–motor" width="420"> 
-
-<img src="../recursos/imgs/sketch_esp32_pwm.jpg" alt="Sketch PWM pines 25/26/27" width="420"> 
+<img src="../recursos/imgs/Segundo/Circuito 6.jpg" alt="Montaje ESP32 + L298N + motor TT" width="420"> 
 
 > Video opcional:  
 > [Video en plataforma externa](https://tu-enlace-de-video.com) 
