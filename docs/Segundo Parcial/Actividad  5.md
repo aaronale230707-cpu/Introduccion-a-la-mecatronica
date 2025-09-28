@@ -1,4 +1,3 @@
-
 ---
 Titulo: Control de un motor DC con ESP32 y L298N
 summary: Práctica para controlar un motor DC con ESP32 usando PWM (velocidad) y dos pines de dirección por medio del L298N.
