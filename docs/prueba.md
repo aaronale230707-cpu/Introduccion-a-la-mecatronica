@@ -58,7 +58,7 @@ void loop() {
 ![Diagrama del sistema](recursos/imgs/Segundo/Actividad_7.jpg)
 <img src="../docs/recursos/imgs/Segundo/Actividad_7.jpg" alt="ESP32 + servo + fuente" width="420"> 
 
-<img src="../docs/recursos/imgs/Segundo/Circuito_7.jpg" alt="Diagrama dos servos con GND común" width="420"> 
+<img src="../docs/recursos/imgs/Segundo/Circuito_7.jpeg" alt="Diagrama dos servos con GND común" width="420"> 
 
 > Video opcional:  
 > [Video en plataforma externa](https://tu-enlace-de-video.com) 
