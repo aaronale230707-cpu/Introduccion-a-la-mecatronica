@@ -65,5 +65,5 @@ void loop() {
 ## Evidencias
 <img src="../recursos/imgs/Segundo/Actividad_5.jpg" alt="Carga del sketch" width="420"> 
 
-<img src="../recursos/imgs/Segundo/Circuit_5.png" alt="L298N con un motor y ESP32" width="420"> 
+<img src="../recursos/imgs/Segundo/Circuito_5.png" alt="L298N con un motor y ESP32" width="420"> 
 
