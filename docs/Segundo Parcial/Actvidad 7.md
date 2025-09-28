@@ -55,7 +55,7 @@ void loop() {
 - Para varios servos: duplicar la conexión de Vcc y señal a distintos GPIOs y prever una fuente de 5 V dedicada con suficiente corriente. 
 
 ## Evidencias
-<img src="../recursos/imgs/Segundo/Actividad_7.jpg" alt="ESP32 + servo + fuente" width="420"> 
+<img src="../recursos/imgs/Segundo/Actividad_7.jpg" alt="Circuito" width="420"> 
 
 <img src="../recursos/imgs/Segundo/Circuito_7.jpeg" alt="Diagrama dos servos con GND común" width="420"> 
 
