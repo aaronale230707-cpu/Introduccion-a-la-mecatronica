@@ -63,10 +63,7 @@ void loop() {
 - Si no arranca: revisar GND común, jumper de habilitación ENA.
 
 ## Evidencias
-<img src="../recursos/imgs/ide_subida.jpg" alt="Carga del sketch" width="420"> [attached_file:1]
+<img src="../recursos/imgs/Segundo/Actividad 5.jpg" alt="Carga del sketch" width="420"> 
 
-<img src="../recursos/imgs/diagrama_un_motor.png" alt="L298N con un motor y ESP32" width="420"> [attached_file:2]
+<img src="../recursos/imgs/Segundo/Circuito 5.png" alt="L298N con un motor y ESP32" width="420"> 
 
-<img src="../recursos/imgs/montaje_un_motor.jpg" alt="Montaje con fuente y motor" width="420"> [attached_file:3]
-
-<img src="../recursos/imgs/pwm_conceptos.png" alt="Resumen PWM" width="420"> [attached_file:4]
