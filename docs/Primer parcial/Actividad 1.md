@@ -39,9 +39,11 @@ El 555 funciona como generador de onda cuadrada en modo astable: un capacitor se
 - Encender la fuente y observar el LED parpadeando.  
 - Si no hay parpadeo, revisar: polaridad del LED y del capacitor, unión 2–6, RESET en alto, continuidad de R1/R2 y orientación del CI.
 
-## Segmento para evidencias (MkDocs/GitHub)
+## Evidencias
+![Diagrama del sistema](recursos/imgs/Montaje_protoboard.jpg)
 <img src="../recursos/imgs/Montaje_protoboard.jpg" alt="Esquema del circuito" width="420">
 
+![Diagrama del sistema](recursos/imgs/Esquema.png)
 <img src="../recursos/imgs/Esquema.png" alt="Esquema del circuito" width="420">
 
 > Video externo:  
