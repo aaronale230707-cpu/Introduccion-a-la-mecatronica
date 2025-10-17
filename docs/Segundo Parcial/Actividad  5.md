@@ -64,12 +64,11 @@ void loop() {
 
 ## Evidencias
 <img src="../recursos/imgs/Segundo/Actividad_5.jpg" alt="Carga del sketch" width="420"> 
-
 <img src="../recursos/imgs/Segundo/Circuito_5.png" alt="L298N con un motor y ESP32" width="420"> 
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
   <iframe
-    src="https://youtube.com/embed/nF4rsNLQUvQ?feature=share"
+    src="https://youtube.com/embed/nF4rsNLQUvQ"
     title="YouTube video"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
