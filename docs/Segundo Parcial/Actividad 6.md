@@ -64,8 +64,16 @@ void loop() {
 
 ## Evidencias
 <img src="../recursos/imgs/Segundo/Actividad_6.jpg" alt="Codigo" width="420"> 
-
 <img src="../recursos/imgs/Segundo/Circuito_6.jpg" alt="Montaje ESP32 + L298N + motor TT" width="420"> 
 
-> Video opcional:  
-> [Video en plataforma externa](https://tu-enlace-de-video.com) 
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
+  <iframe
+    src="https://youtube.com/embed/AbJzgclvZUM?feature=share"
+    title="YouTube video"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position:absolute;top:0;left:0;width:100%;height:100%;">
+  </iframe>
+</div>
+
