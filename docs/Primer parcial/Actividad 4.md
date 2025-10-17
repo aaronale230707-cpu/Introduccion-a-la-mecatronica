@@ -63,3 +63,15 @@ void loop() {
 <img src="../recursos/imgs/bt_codigo_captura.png" alt="Sketch con BluetoothSerial y control de LED" width="420">
 <img src="../recursos/imgs/bt_monitor_captura.jpg" alt="Monitor serie mostrando cadenas recibidas" width="420">
 <img src="../recursos/imgs/bt_telefono_terminal.jpg" alt="Terminal Bluetooth en el teléfono controlando el LED" width="420">
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
+  <iframe
+    src="https://www.youtube.com/embed/HNCWtrU1494?start=191"
+    title="YouTube video"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position:absolute;top:0;left:0;width:100%;height:100%;">
+  </iframe>
+</div>
+
