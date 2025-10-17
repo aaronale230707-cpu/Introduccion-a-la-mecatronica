@@ -50,8 +50,17 @@ void loop() {
 - Si hay falsos disparos: comprobar tierra común, resistencias, contactos del pulsador y considerar un pequeño delay o antirrebote por software.
 
 ## Evidencias
-<img src="../recursos/imgs/montaje_btn_led.jpg" alt="Montaje en protoboard con LED y botón" width="420">
+<img src="../recursos/imgs/Primero/Actividad 3" alt="Montaje en protoboard con LED y botón" width="420">
 
-<img src="../recursos/imgs/sketch_btn_led.jpg" alt="Sketch de lectura digital" width="420">
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
+  <iframe
+    src="https://www.youtube.com/embed/y97YbzeoUCA"
+    title="YouTube video"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position:absolute;top:0;left:0;width:100%;height:100%;">
+  </iframe>
+</div>
 
-<img src="../recursos/imgs/diagrama_btn_led.png" alt="Diagrama de conexiones" width="420">
+
