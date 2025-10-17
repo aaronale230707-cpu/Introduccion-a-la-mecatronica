@@ -50,7 +50,7 @@ void loop() {
 - Si hay falsos disparos: comprobar tierra común, resistencias, contactos del pulsador y considerar un pequeño delay o antirrebote por software.
 
 ## Evidencias
-<img src="../recursos/imgs/Primero/Actividad 3" alt="Montaje en protoboard con LED y botón" width="420">
+<img src="../recursos/imgs/Primero/Actividad_3.jpg" alt="Diagrama de conexiones para Blink" width="560">
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
   <iframe
