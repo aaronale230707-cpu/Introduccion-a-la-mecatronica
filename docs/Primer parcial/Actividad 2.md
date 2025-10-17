@@ -41,4 +41,16 @@ void loop() {
 - Si no parpadea: comprobar el pin elegido, polaridad del LED y continuidad de la resistencia.
 
 ## Evidencias
-<img src="../recursos/imgs/blink_diagrama.png" alt="Diagrama de conexiones para Blink" width="560">
+<img src="../recursos/imgs/Primero/Esquema 2.png" alt="Diagrama de conexiones para Blink" width="560">
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
+  <iframe
+    src="https://www.youtube.com/embed/y97YbzeoUCA"
+    title="YouTube video"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position:absolute;top:0;left:0;width:100%;height:100%;">
+  </iframe>
+</div>
+
