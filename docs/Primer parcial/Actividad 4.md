@@ -60,7 +60,7 @@ void loop() {
 - Evitar pines solo‑entrada para el LED (p. ej., 34–39).
 
 ## Evidencias
-<img src="../recursos/imgs/Primero/Actividad_4" alt="Diagrama de conexiones para Blink" width="560">
+<img src="../recursos/imgs/Primero/Actividad_4.jpg" alt="Diagrama de conexiones para Blink" width="560">
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
   <iframe
