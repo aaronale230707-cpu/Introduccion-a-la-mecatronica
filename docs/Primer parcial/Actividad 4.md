@@ -60,13 +60,11 @@ void loop() {
 - Evitar pines solo‑entrada para el LED (p. ej., 34–39).
 
 ## Evidencias
-<img src="../recursos/imgs/bt_codigo_captura.png" alt="Sketch con BluetoothSerial y control de LED" width="420">
-<img src="../recursos/imgs/bt_monitor_captura.jpg" alt="Monitor serie mostrando cadenas recibidas" width="420">
-<img src="../recursos/imgs/bt_telefono_terminal.jpg" alt="Terminal Bluetooth en el teléfono controlando el LED" width="420">
+<img src="../recursos/imgs/Primero/Actividad 4" alt="Terminal Bluetooth en el teléfono controlando el LED" width="420">
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
   <iframe
-    src="https://www.youtube.com/embed/HNCWtrU1494?start=191"
+    src="https://youtube.com/embed/uK-8oCp_G08"
     title="YouTube video"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
