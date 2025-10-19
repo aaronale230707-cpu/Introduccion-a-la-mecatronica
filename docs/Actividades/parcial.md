@@ -18,6 +18,7 @@ Ejercicio 6
 <img src="../recursos/imag/Image (8).jpeg" alt="Diagrama del sistema" width="420">
 
 use_directory_urls: false
+
 #videos 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
 <iframe
