@@ -1,16 +1,16 @@
 # Documentación del Proyecto
 Ejercicio 1
-<img src="../recursos/archivos/Image (3).jpeg" alt="Diagrama del sistema" width="420">
+<img src="../recursos/imag/Image (3).jpeg" alt="Diagrama del sistema" width="420">
 Ejercicio 2 
-<img src="../recursos/archivos/Image (4).jpeg" alt="Diagrama del sistema" width="420">
+<img src="../recursos/imag/Image (4).jpeg" alt="Diagrama del sistema" width="420">
 Ejercicio 3
-<img src="../recursos/archivos/Image (5).jpeg" alt="Diagrama del sistema" width="420">
+<img src="../recursos/imag/Image (5).jpeg" alt="Diagrama del sistema" width="420">
 Ejercicio 4
-<img src="../recursos/archivos/Image (6).jpeg" alt="Diagrama del sistema" width="420">
+<img src="../recursos/imag/Image (6).jpeg" alt="Diagrama del sistema" width="420">
 Ejercicio 5
-<img src="../recursos/archivos/Image (7).jpeg" alt="Diagrama del sistema" width="420">
+<img src="../recursos/imag/Image (7).jpeg" alt="Diagrama del sistema" width="420">
 Ejercicio 6
-<img src="../recursos/archivos/Image (8).jpeg" alt="Diagrama del sistema" width="420">
+<img src="../recursos/imag/Image (8).jpeg" alt="Diagrama del sistema" width="420">
 use_directory_urls: false
 #videos 
 <iframe
