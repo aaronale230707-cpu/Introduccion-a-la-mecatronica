@@ -1,5 +1,4 @@
 # Documentación del Proyecto
-hola
 Ejercicio 1
 <img src="../recursos/imag/Image (3).jpeg" alt="Diagrama del sistema" width="420">
 Ejercicio 2 
