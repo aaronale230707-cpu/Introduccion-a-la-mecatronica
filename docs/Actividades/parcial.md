@@ -21,62 +21,63 @@ use_directory_urls: false
 
 #videos 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-<iframe
+  <iframe
     src="https://youtu.be/embed/kpz5rhVGvD4"
     title="YouTube video"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen
-    style="position:absolute;top:0;left:0;width:50%;height:50%;">
+    style="position:absolute;top:0;left:0;width:100%;height:100%;">
   </iframe>
 </div>
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-<iframe
+  <iframe
     src="https://youtube.com/embed/T8IlCyoVU-w"
     title="YouTube video"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen
-    style="position:absolute;top:0;left:0;width:50%;height:50%;">
+    style="position:absolute;top:0;left:0;width:100%;height:100%;">
   </iframe>
 </div>
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-<iframe
+  <iframe
     src="https://youtube.com/embed/d0iTILIIPos"
     title="YouTube video"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen
-    style="position:absolute;top:0;left:0;width:50%;height:50%;">
+    style="position:absolute;top:0;left:0;width:100%;height:100%;">
   </iframe>
 </div>
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-<iframe
+  <iframe
     src="https://youtube.com/embed/4-nR5YCI7Cw"
     title="YouTube video"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen
-    style="position:absolute;top:0;left:0;width:50%;height:50%;">
+    style="position:absolute;top:0;left:0;width:100%;height:100%;">
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
   </iframe>
 </div>
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-<iframe
+  <iframe
     src="https://youtube.com/embed/NJLK1Uz_8o4"
     title="YouTube video"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen
-    style="position:absolute;top:0;left:0;width:50%;height:50%;">
+    style="position:absolute;top:0;left:0;width:100%;height:100%;">
   </iframe>
 </div>
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-<iframe
+  <iframe
     src="https://youtube.com/embed/-PRgbmeOKgg"
     title="YouTube video"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen
-    style="position:absolute;top:0;left:0;width:50%;height:50%;">
+    style="position:absolute;top:0;left:0;width:100%;height:100%;">
   </iframe>
 </div>
