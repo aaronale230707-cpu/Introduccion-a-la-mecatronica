@@ -16,6 +16,7 @@ Ejercicio 5
 
 Ejercicio 6
 <img src="../recursos/imag/Image (8).jpeg" alt="Diagrama del sistema" width="420">
+
 use_directory_urls: false
 #videos 
 
